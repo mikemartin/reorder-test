@@ -1,0 +1,11 @@
+super: true
+id: b4868a67-e1b9-4e52-bc07-35b2e1843aa7
+password_hash: $2y$12$d96ne2du22CXnh0qtebMO.wmAZJYxrC1QQA0vWrOPSMPguWc2BMKe
+preferences:
+  collections:
+    pages:
+      view: list
+    posts:
+      view: list
+      columns:
+        - title
