@@ -3768,16 +3768,16 @@
         },
         {
             "name": "phpstan/phpdoc-parser",
-            "version": "2.3.0",
+            "version": "2.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/phpstan/phpdoc-parser.git",
-                "reference": "1e0cd5370df5dd2e556a36b9c62f62e555870495"
+                "reference": "16dbf9937da8d4528ceb2145c9c7c0bd29e26374"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/1e0cd5370df5dd2e556a36b9c62f62e555870495",
-                "reference": "1e0cd5370df5dd2e556a36b9c62f62e555870495",
+                "url": "https://api.github.com/repos/phpstan/phpdoc-parser/zipball/16dbf9937da8d4528ceb2145c9c7c0bd29e26374",
+                "reference": "16dbf9937da8d4528ceb2145c9c7c0bd29e26374",
                 "shasum": ""
             },
             "require": {
@@ -3809,9 +3809,9 @@
             "description": "PHPDoc parser with support for nullable, intersection and generic types",
             "support": {
                 "issues": "https://github.com/phpstan/phpdoc-parser/issues",
-                "source": "https://github.com/phpstan/phpdoc-parser/tree/2.3.0"
+                "source": "https://github.com/phpstan/phpdoc-parser/tree/2.3.1"
             },
-            "time": "2025-08-30T15:50:23+00:00"
+            "time": "2026-01-12T11:33:04+00:00"
         },
         {
             "name": "pixelfear/composer-dist-plugin",
@@ -5218,16 +5218,16 @@
         },
         {
             "name": "statamic/cms",
-            "version": "v6.0.0-alpha.20",
+            "version": "v6.0.0-beta.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/statamic/cms.git",
-                "reference": "39436bf8b27f0dd6002301de7b14fe66f276ca22"
+                "reference": "166497eb2c56e948a13a8697a9f2afac1b30db59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/statamic/cms/zipball/39436bf8b27f0dd6002301de7b14fe66f276ca22",
-                "reference": "39436bf8b27f0dd6002301de7b14fe66f276ca22",
+                "url": "https://api.github.com/repos/statamic/cms/zipball/166497eb2c56e948a13a8697a9f2afac1b30db59",
+                "reference": "166497eb2c56e948a13a8697a9f2afac1b30db59",
                 "shasum": ""
             },
             "require": {
@@ -5339,7 +5339,7 @@
             ],
             "support": {
                 "issues": "https://github.com/statamic/cms/issues",
-                "source": "https://github.com/statamic/cms/tree/v6.0.0-alpha.20"
+                "source": "https://github.com/statamic/cms/tree/v6.0.0-beta.1"
             },
             "funding": [
                 {
@@ -5347,7 +5347,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-12-19T20:42:57+00:00"
+            "time": "2026-01-12T19:44:17+00:00"
         },
         {
             "name": "statamic/stringy",
@@ -8744,16 +8744,16 @@
         },
         {
             "name": "ueberdosis/tiptap-php",
-            "version": "2.0.0",
+            "version": "2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/ueberdosis/tiptap-php.git",
-                "reference": "458194ad0f8b0cf616fecdf451a84f9a6c1f3056"
+                "reference": "6ea321fa665080e1a72ac5f52dfab19f6a292e2d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ueberdosis/tiptap-php/zipball/458194ad0f8b0cf616fecdf451a84f9a6c1f3056",
-                "reference": "458194ad0f8b0cf616fecdf451a84f9a6c1f3056",
+                "url": "https://api.github.com/repos/ueberdosis/tiptap-php/zipball/6ea321fa665080e1a72ac5f52dfab19f6a292e2d",
+                "reference": "6ea321fa665080e1a72ac5f52dfab19f6a292e2d",
                 "shasum": ""
             },
             "require": {
@@ -8793,7 +8793,7 @@
             ],
             "support": {
                 "issues": "https://github.com/ueberdosis/tiptap-php/issues",
-                "source": "https://github.com/ueberdosis/tiptap-php/tree/2.0.0"
+                "source": "https://github.com/ueberdosis/tiptap-php/tree/2.1.0"
             },
             "funding": [
                 {
@@ -8809,7 +8809,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2025-06-26T14:11:46+00:00"
+            "time": "2026-01-10T16:40:02+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -8971,7 +8971,7 @@
         },
         {
             "name": "web-auth/cose-lib",
-            "version": "4.5.x-dev",
+            "version": "4.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/web-auth/cose-lib.git",
@@ -8998,7 +8998,6 @@
                 "ext-gmp": "For better performance, please install either GMP (recommended) or BCMath extension",
                 "spomky-labs/cbor-php": "For COSE Signature support"
             },
-            "default-branch": true,
             "type": "library",
             "autoload": {
                 "psr-4": {
@@ -9027,7 +9026,7 @@
             ],
             "support": {
                 "issues": "https://github.com/web-auth/cose-lib/issues",
-                "source": "https://github.com/web-auth/cose-lib/tree/4.5.x"
+                "source": "https://github.com/web-auth/cose-lib/tree/4.5.0"
             },
             "funding": [
                 {
